@@ -1,0 +1,5 @@
+{
+  "name": "Tranico Subcontractor App",
+  "description": "A mobile-first work order management application for subcontractors to track tasks, view history, and manage their profile.",
+  "requestFramePermissions": []
+}
